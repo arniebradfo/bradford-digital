@@ -15,7 +15,7 @@ export const useGrowParallax = ({
   offsetPx,
   duration,
 }: {
-  elementRef: React.RefObject<HTMLElement>;
+  elementRef: React.RefObject<HTMLElement | null>;
   offsetPx: number;
   duration: number;
 }) => {

@@ -1,5 +1,6 @@
+import fs from "fs";
 import path from "path";
-import getImageSize from "image-size";
+import { imageSize } from "image-size";
 import type { MDXComponents } from "mdx/types";
 import Image, { ImageProps } from "next/image";
 import { B, H1, H2, H3, H4, H5, H6, I, Txt } from "./app/components/Text";
@@ -37,7 +38,7 @@ const Img = ({
   // Copy props into new object since it's locked
   const newProps = { ...props };
 
-  let newSrc = props.src || ""; // TODO: error image?
+  let newSrc = typeof props.src === "string" ? props.src : ""; // TODO: error image?
 
   const isLocalImage = !newSrc.startsWith("http");
 
@@ -47,7 +48,7 @@ const Img = ({
     const fileName = newSrc.replace("/images", ""); // e.g. file.png, or /subdir/file.png
     const filePath = path.join(process.cwd(), fileName);
 
-    const dimensions = getImageSize(filePath);
+    const dimensions = imageSize(fs.readFileSync(filePath));
 
     newProps.width = dimensions.width;
     newProps.height = dimensions.height;

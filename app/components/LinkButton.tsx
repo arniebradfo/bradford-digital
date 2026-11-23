@@ -1,7 +1,7 @@
 "use client";
-import { motion } from "framer-motion";
+import { motion, MotionStyle } from "framer-motion";
 import style from "./LinkButton.module.css";
-import { CSSProperties, useRef } from "react";
+import { useRef } from "react";
 import { useMagneticParallax } from "../utils/useMagneticParallax";
 import { useGrowParallax } from "../utils/useGrowParallax";
 import Link from "next/link";
@@ -31,7 +31,7 @@ export const LinkButton: React.FC<LinkButtonProps> = ({
   external,
   ...props
 }) => {
-  const elementRef = useRef<HTMLElement>(null);
+  const elementRef = useRef<HTMLAnchorElement>(null);
 
   const {
     translateX: magneticTranslateX,
@@ -76,7 +76,7 @@ export const LinkButton: React.FC<LinkButtonProps> = ({
   const customVar = {
     "--link-button-duration": duration + "s",
     "--link-button-click-duration": clickDuration + "s",
-  } as CSSProperties;
+  } as MotionStyle;
 
   return (
     <MotionLink

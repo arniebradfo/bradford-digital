@@ -4,7 +4,7 @@ import { cx } from "../utils/joinClassNames";
 import style from "./layout.module.css";
 import { imgSizes } from "../utils/imgSizes";
 
-type HtmlProps<T extends keyof JSX.IntrinsicElements = "div"> =
+type HtmlProps<T extends keyof React.JSX.IntrinsicElements = "div"> =
   React.ComponentProps<T>;
 
 /**

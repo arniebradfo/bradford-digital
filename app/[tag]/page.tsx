@@ -12,9 +12,9 @@ import { Header } from "../views/Header";
 import { Footer } from "../views/Footer";
 
 interface TagPageProps {
-  params: {
+  params: Promise<{
     tag: string;
-  };
+  }>;
 }
 
 export function generateStaticParams() {
@@ -31,7 +31,8 @@ export function generateStaticParams() {
 export async function generateMetadata({
   params,
 }: TagPageProps): Promise<Metadata> {
-  const config = getTagConfig(params.tag);
+  const { tag } = await params;
+  const config = getTagConfig(tag);
   if (!config) {
     return {
       title: "Not Found / James Bradford",
@@ -44,8 +45,9 @@ export async function generateMetadata({
   };
 }
 
-export default function TagPage({ params }: TagPageProps) {
-  const config = getTagConfig(params.tag);
+export default async function TagPage({ params }: TagPageProps) {
+  const { tag } = await params;
+  const config = getTagConfig(tag);
 
   if (!config) {
     notFound();

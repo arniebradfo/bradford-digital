@@ -3,7 +3,7 @@ import { useCallback, useLayoutEffect, useState } from "react";
 export const useElementDOMRect = ({
   elementRef,
 }: {
-  elementRef: React.RefObject<HTMLElement>;
+  elementRef: React.RefObject<HTMLElement | null>;
 }) => {
   const [elementDOMRect, setElementDOMRect] = useState<DOMRect>();
 

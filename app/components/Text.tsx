@@ -4,7 +4,7 @@ import { cx } from "../utils/joinClassNames";
 
 export type TxtProps = HTMLAttributes<HTMLOrSVGElement> & {
   /** type of tag to use - <span/> is default */
-  tag?: keyof JSX.IntrinsicElements;
+  tag?: keyof React.JSX.IntrinsicElements;
 
   /** color, foreground: 1 is darkest, 4 is lightest, 2 is default */
   fg?: 1 | 2 | 3 | 4;

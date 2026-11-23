@@ -10,7 +10,7 @@ export const useClickScale = ({
   duration,
   clickDuration,
 }: {
-  elementRef: React.RefObject<HTMLElement>;
+  elementRef: React.RefObject<HTMLElement | null>;
   scalePx: number;
   duration: number;
   clickDuration: number;

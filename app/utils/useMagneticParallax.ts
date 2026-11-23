@@ -16,7 +16,7 @@ export const useMagneticParallax = ({
   duration,
   isScrollUpdated,
 }: {
-  elementRef: React.RefObject<HTMLElement>;
+  elementRef: React.RefObject<HTMLElement | null>;
   offsetPx: number;
   duration: number;
   isScrollUpdated?: boolean;
