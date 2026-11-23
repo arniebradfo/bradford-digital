@@ -2,6 +2,7 @@ import { PageHeader } from "../../components/PageHeader";
 import { PageDetails } from "../../components/PageDetails";
 import { LinkButton } from "../../components/LinkButton";
 import { Layouts } from "../Layouts";
+import { sections } from "../../views/ProjectFeatureSections";
 import { imgSizes } from "../../utils/imgSizes";
 import * as Src from "../../media";
 import style from "./page.module.css";
@@ -11,8 +12,8 @@ import style from "./page.module.css";
   subHeader: "2019-02-01",
   description: "Avalanches are a huge risk in the backcountry. I wanted to make it easier for backcountry recreators to choose a safe slope, so I designed and prototyped an avalanche safety mobile app that uses terrain data to visually depict slope danger on a map. Whether you're skiing, snowmobiling, or mountaineering, this app is designed to be your backcountry companion.",
   heroImageProps: {
-    src: Src.media_lfsmedia_avymapavalanchesafetymobileapp_AvyMapheader2png,
-    alt: "AvyMap: Avalanche Safety Mobile App"
+    ...sections.avyMap.heroImageProps,
+    href: undefined
   }
 }} />
 
