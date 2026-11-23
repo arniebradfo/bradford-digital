@@ -1,2 +1,4 @@
 public/lfs-media/** filter=lfs diff=lfs merge=lfs -text
 media/lfs-media/** filter=lfs diff=lfs merge=lfs -text
+media/lfs-media/brandonadams-design/*.md -filter -diff -merge text
+media/lfs-media/brandonadams-design/*.json -filter -diff -merge text

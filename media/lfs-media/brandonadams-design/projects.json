@@ -1,0 +1,336 @@
+[
+  {
+    "slug": "asi-mobius-software",
+    "url": "https://www.brandonadams.design/asi-mobius-software/",
+    "title": "ASI Mobius Command & Control Software",
+    "date": "2017-03-13T02:17:29",
+    "modified": "2017-03-13T02:39:29",
+    "categories": [
+      "UX"
+    ],
+    "excerpt": "User experience for command and control software to task autonomous vehicles in various industries including mining, automotive proving grounds, agriculture, security, cleaning and more.",
+    "body_text": [],
+    "images": [
+      "https://cdn.brandonadams.design/2017/ux/mobius01.png",
+      "https://cdn.brandonadams.design/2017/ux/mobius02.png",
+      "https://cdn.brandonadams.design/2017/ux/mobius04.png",
+      "https://cdn.brandonadams.design/2017/ux/mobius03.png"
+    ],
+    "youtube": [],
+    "files": [
+      "asi-mobius-software/mobius01.png",
+      "asi-mobius-software/mobius02.png",
+      "asi-mobius-software/mobius04.png",
+      "asi-mobius-software/mobius03.png"
+    ]
+  },
+  {
+    "slug": "asi-mobius-map-builder-software",
+    "url": "https://www.brandonadams.design/asi-mobius-map-builder-software/",
+    "title": "ASI Mobius Map Builder Software",
+    "date": "2017-03-12T03:00:54",
+    "modified": "2017-03-14T02:51:15",
+    "categories": [
+      "UX"
+    ],
+    "excerpt": "User experience for constructing, managing changes, and planning for autonomous vehicle operations. Allows a user to edit and create roads, various zones, driven areas, boundaries, obstacles, etc.",
+    "body_text": [],
+    "images": [
+      "https://cdn.brandonadams.design/2017/ux/mobiusMap01.png",
+      "https://cdn.brandonadams.design/2017/ux/mobiusMap02.png",
+      "https://cdn.brandonadams.design/2017/ux/mobiusMap03.png",
+      "https://cdn.brandonadams.design/2017/ux/mobiusMap04.png",
+      "https://cdn.brandonadams.design/2017/ux/mobiusMap05.png",
+      "https://cdn.brandonadams.design/2017/ux/mobiusMap06.png",
+      "https://cdn.brandonadams.design/2017/ux/mobiusMap07.png"
+    ],
+    "youtube": [],
+    "files": [
+      "asi-mobius-map-builder-software/mobiusMap01.png",
+      "asi-mobius-map-builder-software/mobiusMap02.png",
+      "asi-mobius-map-builder-software/mobiusMap03.png",
+      "asi-mobius-map-builder-software/mobiusMap04.png",
+      "asi-mobius-map-builder-software/mobiusMap05.png",
+      "asi-mobius-map-builder-software/mobiusMap06.png",
+      "asi-mobius-map-builder-software/mobiusMap07.png"
+    ]
+  },
+  {
+    "slug": "asi-mobius-path-builder-software",
+    "url": "https://www.brandonadams.design/asi-mobius-path-builder-software/",
+    "title": "ASI Mobius Path Builder Software",
+    "date": "2017-02-22T03:33:20",
+    "modified": "2017-03-15T04:14:17",
+    "categories": [
+      "UX"
+    ],
+    "excerpt": "The Mobius software platform enables users to create, edit, and script the exact path a vehicle will drive. This is most commonly used for security and automotive proving grounds.",
+    "body_text": [],
+    "images": [
+      "https://cdn.brandonadams.design/2017/ux/mobiusPathBuilder01.png",
+      "https://cdn.brandonadams.design/2017/ux/mobiusPathBuilder02.png",
+      "https://cdn.brandonadams.design/2017/ux/mobiusPathBuilder03.png",
+      "https://cdn.brandonadams.design/2017/ux/mobiusPathBuilder04.png"
+    ],
+    "youtube": [],
+    "files": [
+      "asi-mobius-path-builder-software/mobiusPathBuilder01.png",
+      "asi-mobius-path-builder-software/mobiusPathBuilder02.png",
+      "asi-mobius-path-builder-software/mobiusPathBuilder03.png",
+      "asi-mobius-path-builder-software/mobiusPathBuilder04.png"
+    ]
+  },
+  {
+    "slug": "asi-icon-library",
+    "url": "https://www.brandonadams.design/asi-icon-library/",
+    "title": "ASI Icon Library",
+    "date": "2016-07-15T17:40:05",
+    "modified": "2017-03-13T17:40:57",
+    "categories": [
+      "Creative"
+    ],
+    "excerpt": "The ASI Mobius software platform has an extensive icon library that I designed for interface commands across the product.",
+    "body_text": [],
+    "images": [
+      "https://cdn.brandonadams.design/2016/creative/asiIcons01.png"
+    ],
+    "youtube": [],
+    "files": [
+      "asi-icon-library/asiIcons01.png"
+    ]
+  },
+  {
+    "slug": "asi-automation-kit-lobby-loop-video",
+    "url": "https://www.brandonadams.design/asi-automation-kit-lobby-loop-video/",
+    "title": "ASI Automation Kit Lobby Loop Video",
+    "date": "2016-03-17T21:41:09",
+    "modified": "2017-03-15T21:45:13",
+    "categories": [
+      "Motion & Editing"
+    ],
+    "excerpt": "",
+    "body_text": [],
+    "images": [],
+    "youtube": [
+      "eG1k5Ld62qw"
+    ],
+    "files": [
+      "asi-automation-kit-lobby-loop-video/youtube-eG1k5Ld62qw.jpg"
+    ]
+  },
+  {
+    "slug": "asi-gauges",
+    "url": "https://www.brandonadams.design/asi-gauges/",
+    "title": "ASI Mobius Vehicle Gauges",
+    "date": "2016-02-11T00:43:41",
+    "modified": "2017-03-15T00:49:05",
+    "categories": [
+      "UX"
+    ],
+    "excerpt": "As a part of the ASI Mobius platform, each vehicle has a set of gauges that deliver real time feedback about the status of the system. I created several different gauges that could be mixed and matched with any given vehicle and connected to any available telemetry data item.",
+    "body_text": [],
+    "images": [
+      "https://cdn.brandonadams.design/2016/ux/asiGaugeLayout01.png",
+      "https://cdn.brandonadams.design/2016/ux/asiGaugeLayout02.png",
+      "https://cdn.brandonadams.design/2016/ux/asiGaugeLayout03.png",
+      "https://cdn.brandonadams.design/2016/ux/asiGaugeLayout04.png"
+    ],
+    "youtube": [],
+    "files": [
+      "asi-gauges/asiGaugeLayout01.png",
+      "asi-gauges/asiGaugeLayout02.png",
+      "asi-gauges/asiGaugeLayout03.png",
+      "asi-gauges/asiGaugeLayout04.png"
+    ]
+  },
+  {
+    "slug": "asi-vector-vehicle-avatars",
+    "url": "https://www.brandonadams.design/asi-vector-vehicle-avatars/",
+    "title": "ASI Vector Vehicle Avatars",
+    "date": "2016-01-01T15:31:30",
+    "modified": "2017-03-13T15:32:36",
+    "categories": [
+      "Creative"
+    ],
+    "excerpt": "The Mobius software ASI developed uses vehicle avatars to represent the geo locations of vehicles within the software. These icons are customizable within the program, users can pick an icon, attachments, and the color these avatars show up in on the user interface.",
+    "body_text": [],
+    "images": [
+      "https://cdn.brandonadams.design/2016/creative/asiVehicles01.png",
+      "https://cdn.brandonadams.design/2016/creative/asiVehicles02.png",
+      "https://cdn.brandonadams.design/2016/creative/asiVehicles03.png",
+      "https://cdn.brandonadams.design/2016/creative/asiVehicles04.png",
+      "https://cdn.brandonadams.design/2016/creative/asiVehicles05.png",
+      "https://cdn.brandonadams.design/2016/creative/asiVehicles06.png",
+      "https://cdn.brandonadams.design/2016/creative/asiVehicles07.png",
+      "https://cdn.brandonadams.design/2016/creative/asiVehicles08.png",
+      "https://cdn.brandonadams.design/2016/creative/asiVehicles09.png",
+      "https://cdn.brandonadams.design/2016/creative/asiVehicles10.png",
+      "https://cdn.brandonadams.design/2016/creative/asiVehicles11.png"
+    ],
+    "youtube": [],
+    "files": [
+      "asi-vector-vehicle-avatars/asiVehicles01.png",
+      "asi-vector-vehicle-avatars/asiVehicles02.png",
+      "asi-vector-vehicle-avatars/asiVehicles03.png",
+      "asi-vector-vehicle-avatars/asiVehicles04.png",
+      "asi-vector-vehicle-avatars/asiVehicles05.png",
+      "asi-vector-vehicle-avatars/asiVehicles06.png",
+      "asi-vector-vehicle-avatars/asiVehicles07.png",
+      "asi-vector-vehicle-avatars/asiVehicles08.png",
+      "asi-vector-vehicle-avatars/asiVehicles09.png",
+      "asi-vector-vehicle-avatars/asiVehicles10.png",
+      "asi-vector-vehicle-avatars/asiVehicles11.png"
+    ]
+  },
+  {
+    "slug": "asi-hardware-industrial-design-creative-direction",
+    "url": "https://www.brandonadams.design/asi-hardware-industrial-design-creative-direction/",
+    "title": "ASI Hardware Industrial Design Creative Direction",
+    "date": "2015-09-07T02:31:42",
+    "modified": "2017-03-15T02:34:46",
+    "categories": [
+      "Creative"
+    ],
+    "excerpt": "During my time at ASI, I worked with the Mechanical Engineers, giving them creative direction, design principles, and 1:1 reviews to design these industrial grade automation hardware components for autonomous vehicles.",
+    "body_text": [],
+    "images": [
+      "https://cdn.brandonadams.design/2015/creative/asiHardware01.png",
+      "https://cdn.brandonadams.design/2015/creative/asiHardware02.png",
+      "https://cdn.brandonadams.design/2015/creative/asiHardware03.png",
+      "https://cdn.brandonadams.design/2015/creative/asiHardware04.png",
+      "https://cdn.brandonadams.design/2015/creative/asiHardware05.png",
+      "https://cdn.brandonadams.design/2015/creative/asiHardware06.png"
+    ],
+    "youtube": [],
+    "files": [
+      "asi-hardware-industrial-design-creative-direction/asiHardware01.png",
+      "asi-hardware-industrial-design-creative-direction/asiHardware02.png",
+      "asi-hardware-industrial-design-creative-direction/asiHardware03.png",
+      "asi-hardware-industrial-design-creative-direction/asiHardware04.png",
+      "asi-hardware-industrial-design-creative-direction/asiHardware05.png",
+      "asi-hardware-industrial-design-creative-direction/asiHardware06.png"
+    ]
+  },
+  {
+    "slug": "asi-identity-bumper",
+    "url": "https://www.brandonadams.design/asi-identity-bumper/",
+    "title": "ASI Identity Bumper",
+    "date": "2015-04-16T14:05:12",
+    "modified": "2017-03-13T18:04:53",
+    "categories": [
+      "Identity",
+      "Motion & Editing"
+    ],
+    "excerpt": "Autonomous Solutions makes robotic automated ground vehicles. For marketing materials they needed a video bumper that communicated the technological ground capabilities.",
+    "body_text": [],
+    "images": [],
+    "youtube": [
+      "lD7FgmgLBMI"
+    ],
+    "files": [
+      "asi-identity-bumper/youtube-lD7FgmgLBMI.jpg"
+    ]
+  },
+  {
+    "slug": "asi-autonomous-mining-video",
+    "url": "https://www.brandonadams.design/asi-autonomous-mining-video/",
+    "title": "ASI Autonomous Mining Video",
+    "date": "2015-04-14T15:52:26",
+    "modified": "2017-03-13T15:52:42",
+    "categories": [
+      "Motion & Editing"
+    ],
+    "excerpt": "ASI wanted a video highlighting the capabilities of Mobius, their command and control software application, for the mining industry.",
+    "body_text": [],
+    "images": [],
+    "youtube": [
+      "A7IP7QJTuFk"
+    ],
+    "files": [
+      "asi-autonomous-mining-video/youtube-A7IP7QJTuFk.jpg"
+    ]
+  },
+  {
+    "slug": "asi-website-design",
+    "url": "https://www.brandonadams.design/asi-website-design/",
+    "title": "ASI Website Design",
+    "date": "2015-01-23T22:18:17",
+    "modified": "2017-03-15T22:20:17",
+    "categories": [
+      "Creative"
+    ],
+    "excerpt": "While at ASI I created an updated website layout for the company's corporate website.",
+    "body_text": [],
+    "images": [
+      "https://cdn.brandonadams.design/2015/creative/asiWebsite01.png",
+      "https://cdn.brandonadams.design/2015/creative/asiWebsite02.png",
+      "https://cdn.brandonadams.design/2015/creative/asiWebsite03.png",
+      "https://cdn.brandonadams.design/2015/creative/asiWebsite04.png",
+      "https://cdn.brandonadams.design/2015/creative/asiWebsite05.png"
+    ],
+    "youtube": [],
+    "files": [
+      "asi-website-design/asiWebsite01.png",
+      "asi-website-design/asiWebsite02.png",
+      "asi-website-design/asiWebsite03.png",
+      "asi-website-design/asiWebsite04.png",
+      "asi-website-design/asiWebsite05.png"
+    ]
+  },
+  {
+    "slug": "asi-conference-room-table-industrial-design",
+    "url": "https://www.brandonadams.design/asi-conference-room-table-industrial-design/",
+    "title": "ASI Conference Room Table Industrial Design",
+    "date": "2014-11-20T21:19:39",
+    "modified": "2017-03-15T21:23:33",
+    "categories": [
+      "Creative"
+    ],
+    "excerpt": "I worked with engineers to design a new, branded, conference room table for the primary conference room at ASI headquarters. This large white table features a light up ASI logo in the center of the table.",
+    "body_text": [
+      "Photo credit to Mel Torrie"
+    ],
+    "images": [
+      "https://cdn.brandonadams.design/2014/creative/asiConfTable01.png",
+      "https://cdn.brandonadams.design/2014/creative/asiConfTable02.png",
+      "https://cdn.brandonadams.design/2014/creative/asiConfTable03.png",
+      "https://cdn.brandonadams.design/2014/creative/asiConfTable04.png",
+      "https://cdn.brandonadams.design/2014/creative/asiConfTable05.jpg"
+    ],
+    "youtube": [],
+    "files": [
+      "asi-conference-room-table-industrial-design/asiConfTable01.png",
+      "asi-conference-room-table-industrial-design/asiConfTable02.png",
+      "asi-conference-room-table-industrial-design/asiConfTable03.png",
+      "asi-conference-room-table-industrial-design/asiConfTable04.png",
+      "asi-conference-room-table-industrial-design/asiConfTable05.jpg"
+    ]
+  },
+  {
+    "slug": "asi-identity-mark",
+    "url": "https://www.brandonadams.design/asi-identity-mark/",
+    "title": "ASI Identity mark",
+    "date": "2013-08-01T01:21:35",
+    "modified": "2017-03-15T01:24:08",
+    "categories": [
+      "Identity"
+    ],
+    "excerpt": "When I joined ASI the brand mark needed a refresh to something more modern and placing better, equal, emphasis on the gear and compass for the mark.",
+    "body_text": [],
+    "images": [
+      "https://cdn.brandonadams.design/2013/identity/asiBranding01.png",
+      "https://cdn.brandonadams.design/2013/identity/asiBranding02.png",
+      "https://cdn.brandonadams.design/2013/identity/asiBranding03.png",
+      "https://cdn.brandonadams.design/2013/identity/asiBranding04.png",
+      "https://cdn.brandonadams.design/2013/identity/asiBranding05.png"
+    ],
+    "youtube": [],
+    "files": [
+      "asi-identity-mark/asiBranding01.png",
+      "asi-identity-mark/asiBranding02.png",
+      "asi-identity-mark/asiBranding03.png",
+      "asi-identity-mark/asiBranding04.png",
+      "asi-identity-mark/asiBranding05.png"
+    ]
+  }
+]
