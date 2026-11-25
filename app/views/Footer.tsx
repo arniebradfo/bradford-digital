@@ -30,7 +30,7 @@ export const Footer: React.FC<React.ComponentProps<"footer">> = ({
       <Spacer>/</Spacer>
       <Txt>
         <Link
-          href={"https://github.com/arniebradfo/bradford-digital-5"}
+          href={"https://github.com/arniebradfo/bradford-digital"}
           {...external}
         >
           Coded with ♥

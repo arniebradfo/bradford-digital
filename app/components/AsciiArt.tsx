@@ -31,7 +31,7 @@ export const asciiArt = `
    JAMES BRADFORD / UX ENGINEER
    ---
    Take a look at the site source code:
-   https://github.com/arniebradfo/bradford-digital-5
+   https://github.com/arniebradfo/bradford-digital
 
 `;
 
